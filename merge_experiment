@@ -4,5 +4,6 @@ int main()
 {
 cout<<"merging two branches";
 cout<<"check check";
+cout<<"check check";
 return 0;
 }
