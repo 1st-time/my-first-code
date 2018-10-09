@@ -3,5 +3,6 @@ using namespace std;
 int main()
 {
 cout<<"merging two branches";
+cout<<"check check";
 return 0;
 }
